@@ -1,0 +1,14 @@
+bottle==0.12.9
+EasyProcess==0.1.9
+Flask==0.10.1
+greenlet==0.4.9
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+Pillow==3.0.0
+pypiwin32==219
+pyscreenshot==0.3.4
+PyUserInput==0.1.9
+requests==2.7.0
+virtualenv==13.1.2
+Werkzeug==0.10.4

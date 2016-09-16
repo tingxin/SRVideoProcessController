@@ -1,0 +1,1 @@
+{"inputs": [{"slot": "Slot5.In1", "name": "NUC1", "wall_id": 1, "touchctrl": "192.168.56.1", "pictname": "./thumbnail/1_Slot5.In1.png", "videoctrl": "192.168.56.1:8080"}, {"slot": "Slot5.In1", "name": "NUC1", "wall_id": 2, "touchctrl": "192.168.56.1", "pictname": "./thumbnail/2_Slot5.In1.png", "videoctrl": "192.168.56.1:8080"}]}
